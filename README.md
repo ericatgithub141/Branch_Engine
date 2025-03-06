@@ -1,2 +1,2 @@
 # Branch_Engine
-A SDL Template game engine made in SDL &amp; C++
+A SDL Template made in SDL &amp; C++
