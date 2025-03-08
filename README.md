@@ -16,7 +16,7 @@ This repository provides a basic template for setting up an SDL2 project in C++ 
    - Extract the downloaded archive to a location of your choice.
 
 2. **Set up the project in Visual Studio 2022:**
-   - Open the `SDLTemplate.sln` solution file in Visual Studio 2022.
+   - Open the `Engine_B.sln` solution file in Visual Studio 2022.
    - In the project properties, under **VC++ Directories**:
      - Add the include directory of your SDL2 installation to **Include Directories**.
      - Add the lib directory of your SDL2 installation to **Library Directories**.
